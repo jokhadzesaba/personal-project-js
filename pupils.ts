@@ -67,3 +67,4 @@ class Pupils<T extends Person> extends Shared {
     }
   }
 }
+// const pupils = new Pupils<Person>()

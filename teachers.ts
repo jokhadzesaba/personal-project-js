@@ -74,7 +74,7 @@ class Teachers<T extends Person & Teacher> extends Shared {
     }
   }
 }
-
+// const teacher = new Teachers<Person & Teacher>();
 
 
 

@@ -32,3 +32,4 @@ class Subjects<T extends Subject> extends Shared {
     return this.subjects.filter((s) => s.id === id);
   }
 }
+// const subjects = new Subjects<Subject>();
